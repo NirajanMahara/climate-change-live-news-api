@@ -2,6 +2,16 @@
 
 A Demo to show how to build your own API and host in on RapidAPI
 
+<a target="_blank" href="https://climate-change-live-news-api.herokuapp.com/">
+  <img src="https://user-images.githubusercontent.com/69881638/138883237-cc4da86c-5566-4999-bd14-ce57a8c9bc4f.png" alt="Heroku_logo.svg" width="123px">
+</a>
+
+<br>
+
+<a target="_blank" href="https://rapidapi.com/NirajanWEB/api/climate-change-live-news1">
+  <img src="https://rapidapi.com/static-assets/default/logo-85082ac1-9f07-481f-97c7-538f38e56420.svg" alt="Heroku_logo.svg" width="123px">
+</a>
+
 ## To run this project
 
 You can run this project on your local machine. Just pull it down and do the following:
